@@ -7,6 +7,8 @@ body {
 	margin-right: auto;}
 a, h1 {
 	text-align: center;}
+.exception {
+	text-align: center;}
 p, h2, h3, ol, li {
 	text-align: left;}
 a:link {
