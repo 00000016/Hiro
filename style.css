@@ -1,11 +1,11 @@
 body {
 	font-family: Garamond, serif;
-	background: #0E2C40;
-	color: #EFBC75;
+	background: #f8e9d7;
+	color: black;
 	max-width: 800px;
 	margin-left: auto;
 	margin-right: auto;}
 a, h1, h2, h3{
 	text-align: center;}
 p, h3, ol, li {
-	color: #C1E1A7;}
+	color: black;}
