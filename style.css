@@ -9,5 +9,11 @@ a, h1, h3{
 	text-align: center;}
 p, h2, ol, li {
 	text-align: left;}
-a:link, a:visited:, a:hover, a:active {
+a:link {
+	color: #2C560F;}
+a:visited {
+	color: #2C560F;}
+a:hover {
+	color: #2C560F;}
+a:active {
 	color: #2C560F;}
