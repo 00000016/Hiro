@@ -9,8 +9,10 @@ a, h1 {
 	text-align: center;}
 .exception {
 	text-align: center;}
-p, h2, h3, ol, li {
+h2, h3, ol, li {
 	text-align: left;}
+p {
+	font-size: 130%;}
 a:link {
 	color: #2C560F;}
 a:visited {
