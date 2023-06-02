@@ -12,7 +12,8 @@ a, h1 {
 h2, h3, ol, li {
 	text-align: left;}
 p {
-	font-size: 140%;}
+	font-size: 140%;
+	font-weight: 550;}
 a:link {
 	color: #2C560F;}
 a:visited {
